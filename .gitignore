@@ -1,0 +1,8 @@
+.env
+.repos
+.vscode
+__pycache__/*
+fonts/*
+*.mp4
+*.txt
+*.ipynb
