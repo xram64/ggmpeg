@@ -17,7 +17,6 @@
 
 from os import path
 from ctypes.wintypes import MAX_PATH
-from tkinter.tix import MAX
 from typing import Dict, List, Tuple
 from enum import Enum
 from glob import glob
