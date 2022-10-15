@@ -1,5 +1,4 @@
-# ffmpeg-make_video_from_images
-
+# ggmpeg
 
 ## Signal Graph (WIP)
 ```mermaid
