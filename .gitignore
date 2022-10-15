@@ -4,5 +4,5 @@ fonts/*
 .repos
 .vscode
 *.mp4
-*.txt
 *.ipynb
+~ffmpeg_inputs.txt
